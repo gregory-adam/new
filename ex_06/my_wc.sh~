@@ -1,2 +1,0 @@
-echo "my new project" > $1
-wc -w $1

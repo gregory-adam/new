@@ -1,2 +1,0 @@
-grep hello  $1
-grep love $2
